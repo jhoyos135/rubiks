@@ -105,7 +105,7 @@ function RubiksContainer() {
                 new THREE.MeshBasicMaterial({ color: 'blue' }), // back
             ];
 
-            const cubes = []; // Create an array to store the cubes
+            const cubes = []; // Create an array to store the cubes.
 
             for (let x = 0; x < 3; x++) {
                 for (let y = 0; y < 3; y++) {
